@@ -13,16 +13,28 @@ Arquitecto aplicaciones móviles escalables con Flutter, aplicando Clean Archite
 
 ---
 
+## 💡 Actualmente
+
+- 🔭 Trabajando en arquitecturas escalables con Flutter y monorepos
+- 🌱 Profundizando en Domain Events y Event-Driven Architecture
+- 👯 Abierto a colaborar en proyectos open source de Flutter
+- 💬 Pregúntame sobre Clean Architecture, DDD, o Flutter
+- 📝 Escribiendo sobre patrones avanzados en Medium
+
+---
+
 ## 🛠️ Tecnologías y herramientas
 
 ### **Mobile**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+**State Management**  
 ![Bloc](https://img.shields.io/badge/Bloc-3498DB?style=for-the-badge&logo=flutter&logoColor=white)
 ![Cubit](https://img.shields.io/badge/Cubit-5DADE2?style=for-the-badge&logo=flutter&logoColor=white)
 ![Hydrated Bloc](https://img.shields.io/badge/Hydrated_Bloc-1ABC9C?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 ---
 
@@ -66,17 +78,56 @@ Arquitecto aplicaciones móviles escalables con Flutter, aplicando Clean Archite
 ### 🔹 **Menu** (Flutter + Supabase + Firebase)
 Sistema móvil interno para elección de menú diario con proveedores, ranking, invitados, calificaciones, predicciones, carga masiva desde Excel y panel de administración.
 
+**Tech Stack:** `Flutter` `Bloc` `Supabase` `Firebase` `Clean Architecture` `Domain Events`
+
+---
+
 ### 🔹 **Map Tracking** (Vue 3 + Mapbox + NestJS)
 Múltiples mapas dinámicos con clustering, vehículos en tiempo real, LineString, rutas, markers avanzados y arquitectura modular para manejar instancias independientes.
+
+**Tech Stack:** `Vue 3` `Vite` `Mapbox GL` `NestJS` `WebSockets` `Redis`
+
+---
 
 ### 🔹 **[Dart Clean Architecture — VSCode Extension](https://marketplace.visualstudio.com/items?itemName=FlutterCleanArchitecture.dart-clena-architecture-hex)**
 Extensión oficial de VS Code que genera automáticamente la estructura completa de features con Clean Architecture, DDD y arquitectura hexagonal. Incluye generación de casos de uso, repositorios, entidades, y toda la estructura de carpetas necesaria para mantener un proyecto Flutter escalable y bien organizado.
 
-### 🔹 **Backend logistica** (NestJS + SQL Server + Redis)
+**Tech Stack:** `TypeScript` `VS Code API` `Clean Architecture` `DDD`
+
+---
+
+### 🔹 **Backend logística** (NestJS + SQL Server + Redis)
 Backend modular para logística: normalización de direcciones, rutas, geocoding, control, estados, eventos y polling.
 
-### 🔹 **Stock** (Flutter + Sql server)
-App para controlar el stock de productos.
+**Tech Stack:** `NestJS` `TypeORM` `SQL Server` `Redis` `Event-Driven Architecture`
+
+---
+
+### 🔹 **Stock** (Flutter + SQL Server)
+App para controlar el stock de productos con sincronización offline y manejo de inventario en tiempo real.
+
+**Tech Stack:** `Flutter` `Bloc` `SQL Server` `Offline-First`
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chiuchiolo30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiuchiolo30&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<!-- Si las imágenes de arriba no cargan, GitHub Stats puede tener rate limit. Las estadísticas se actualizarán automáticamente. -->
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiuchiolo30&theme=tokyonight" alt="chiuchiolo30" />
+</div>
+
+---
+
+## 📈 Actividad
+
+[![Edgardo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chiuchiolo30&theme=tokyo-night)](https://github.com/chiuchiolo30)
 
 ---
 
@@ -99,10 +150,16 @@ App para controlar el stock de productos.
   <a href="https://medium.com/@edgardochiuchiolo" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="chiuchiolo30@gmail.com">
+  <a href="mailto:chiuchiolo30@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=chiuchiolo30&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</div>
 
 ---
 
