@@ -1,4 +1,4 @@
-# 👋 Hola, soy Edgardo — **Senior Flutter Software Architect**
+# 👋 Hola, soy Edgardo — **Flutter Software Architect**
 
 Arquitecto aplicaciones móviles escalables con Flutter, aplicando Clean Architecture, monorepos con Melos, Domain Events y módulos reutilizables. Diseño ecosistemas donde mobile, backend y devops trabajan en armonía para crear productos robustos, mantenibles y de alto rendimiento.
 
